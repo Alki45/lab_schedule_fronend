@@ -1,1 +1,1 @@
-# lab_schedule_fronend
+# lab_schedule_frontend
